@@ -1,2 +1,2 @@
 # aiapp
-application that recognize images
+application that recognize images well
