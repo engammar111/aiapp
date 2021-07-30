@@ -1,9 +1,0 @@
-.center {
-  display: flex;
-  justify-content: center;
-}
-
-.form {
-  width: 900px;
-  background: linear-gradient(to left, rgb(148, 55, 55), rgb(42, 42, 170));
-}
