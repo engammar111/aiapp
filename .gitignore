@@ -5,7 +5,11 @@
 /.pnp
 .pnp.js
 .env
+<<<<<<< HEAD
  .history/
+=======
+.history/
+>>>>>>> dc60ec7d1dedcf6af2572c3c5de236259e659448
 
 # testing
 /coverage
