@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/aiapp/static/css/main.7f85c46a.chunk.css",
+    "main.js": "/aiapp/static/js/main.ac40c632.chunk.js",
+    "main.js.map": "/aiapp/static/js/main.ac40c632.chunk.js.map",
+    "runtime-main.js": "/aiapp/static/js/runtime-main.a6cb5436.js",
+    "runtime-main.js.map": "/aiapp/static/js/runtime-main.a6cb5436.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/aiapp/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9f46c655.chunk.js": "/aiapp/static/js/2.9f46c655.chunk.js",
+    "static/js/2.9f46c655.chunk.js.map": "/aiapp/static/js/2.9f46c655.chunk.js.map",
+    "static/js/3.f215fcfd.chunk.js": "/aiapp/static/js/3.f215fcfd.chunk.js",
+    "static/js/3.f215fcfd.chunk.js.map": "/aiapp/static/js/3.f215fcfd.chunk.js.map",
+    "index.html": "/aiapp/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/aiapp/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.7f85c46a.chunk.css.map": "/aiapp/static/css/main.7f85c46a.chunk.css.map",
+    "static/js/2.9f46c655.chunk.js.LICENSE.txt": "/aiapp/static/js/2.9f46c655.chunk.js.LICENSE.txt",
+    "static/media/ai.4ad2c7d2.png": "/aiapp/static/media/ai.4ad2c7d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6cb5436.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9f46c655.chunk.js",
+    "static/css/main.7f85c46a.chunk.css",
+    "static/js/main.ac40c632.chunk.js"
+  ]
+}
