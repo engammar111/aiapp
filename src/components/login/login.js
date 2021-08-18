@@ -21,7 +21,7 @@ export class LogIn extends Component {
   }
 
   onSubmitLogin = () => {
-    fetch("http://localhost:3001/login", {
+    fetch("http://https://protected-oasis-78063.herokuapp.com/login", {
       method: "post",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
