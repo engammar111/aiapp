@@ -64,17 +64,14 @@ class App extends Component {
       .predict(Clarifai.GENERAL_MODEL, this.state.imageInput)
       .then((response) => {
         if (response) {
-          fetch(
-            "http://https://protected-oasis-78063.herokuapp.com/imagecount",
-            {
-              method: "put",
-              headers: { "Content-Type": "application/json" },
-              body: JSON.stringify({
-                name: this.state.user.name,
-                email: this.state.user.email,
-              }),
-            }
-          )
+          fetch("http://protected-oasis-78063.herokuapp.com/imagecount", {
+            method: "put",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              name: this.state.user.name,
+              email: this.state.user.email,
+            }),
+          })
             .then((response) => response.json())
             .then((count) => {
               console.log(count, "count")

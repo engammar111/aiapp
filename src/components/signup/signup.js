@@ -25,7 +25,7 @@ export class SignUp extends Component {
   }
 
   onSubmitLogin = () => {
-    fetch("https://protected-oasis-78063.herokuapp.com/signup", {
+    fetch("http://protected-oasis-78063.herokuapp.com/signup", {
       method: "post",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
